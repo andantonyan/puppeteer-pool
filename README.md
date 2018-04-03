@@ -46,12 +46,6 @@ Done
 
 Using pool in this benchmark results in an average >8x speed increase.
 
-## Install
-
-```bash
-npm install --save puppeteer-pool
-```
-
 Requires Node v6+
 
 ## Usage
