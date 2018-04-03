@@ -7,7 +7,7 @@ const getState = ({size, available, pending, max, min}) => {
 
 const inUse = ({size, available}) => size - available;
 
-describe('PuppeteerPool', () => {
+xdescribe('PuppeteerPool', () => {
   let pool: Pool<IBrowser>;
 
   beforeAll(async () => {
