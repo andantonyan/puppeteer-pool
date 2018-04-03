@@ -1,4 +1,5 @@
 # puppeteer-pool
+###### based on [phantom-pool](https://github.com/binded/phantom-pool)
 
 [![Build Status](https://travis-ci.org/andantonyan/puppeteer-pool.svg?branch=master)](https://travis-ci.org/andantonyan/puppeteer-pool)
 
